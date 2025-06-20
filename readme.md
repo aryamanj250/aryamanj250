@@ -2,11 +2,6 @@
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
-  <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
-  <br />
-  <br />
-
 </div>
 
 ## About Me
@@ -62,7 +57,7 @@ I'm a passionate full-stack developer who loves crafting digital experiences tha
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryamanj250&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500">
+
 </div>
 
 ## 🌟 Featured Projects
@@ -144,8 +139,6 @@ I'm always excited to connect with fellow developers, discuss emerging technolog
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryamanj250&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views">
-  
-  <br><br>
-  
+<p></p>
+<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
 </div>
