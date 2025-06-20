@@ -10,6 +10,26 @@ Hey! I'm **Aryaman Jaiswal** from **Delhi**, currently pursuing my **B.Tech in E
 
 I'm a passionate full-stack developer who loves crafting digital experiences that make a difference. From building sleek mobile apps to creating immersive web experiences, I'm always excited to turn innovative ideas into reality through clean, efficient code.
 
+<p align="center">
+  <a href="https://github.com/aryamanj250">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+  <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/white">
+    <a href="https://x.com/I__Aryaman">
+      <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/X"></picture></a>
+  <a href="https://www.instagram.com/aryamanj_/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white">
+      <img alt="Instagram" title="Instagram" height="48" width="48" src="https://cdn.simpleicons.org/instagram"></picture></a>
+  <a href="https://www.linkedin.com/in/aryaman-jaiswal-a3b3612b9/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+</p>
+
+
 ## 🚀 What Drives Me
 
 ### 📱 Mobile App Development
