@@ -1,8 +1,13 @@
-# Hi there, I'm Aryaman Jaiswal! 👋
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <br />
+  <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/aryaman-jaiswal-a3b3612b9/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryamanj250@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/your-handle](https://x.com/I__Aryaman))
+</div>
 
 ## About Me
 
