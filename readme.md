@@ -18,21 +18,9 @@ I'm a passionate full-stack developer who loves crafting digital experiences tha
 <br />
 </div>
 
-## 🚀 What Drives Me
 
-### 📱 Mobile App Development
-- **Android Native**: Kotlin, Jetpack Compose, Java, Material Design 3
-- **Cross-Platform**: Flutter, Dart for beautiful multi-platform experiences
-- **iOS Development**: Swift (exploring the Apple ecosystem)
-- Building intuitive, performant mobile solutions that users love
 
-### 🌐 Web Development
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.js
-- **Backend**: Node.js, Express.js for robust server-side solutions
-- **3D & Interactive**: Three.js for immersive web experiences
-- **Modern Stack**: TypeScript, Progressive Web Apps, Responsive Design
-
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 ### Languages & Frameworks
 <div align="left">
