@@ -54,56 +54,7 @@ I'm a passionate full-stack developer who loves crafting digital experiences tha
 
 <div align="center">
 
-</div>
-
-## 🌟 Featured Projects
-
-### 📚 NSUTrack - NSUT Student Application
-**Tech Stack**: Kotlin, Jetpack Compose, Material Design 3, MVVM Architecture  
-A comprehensive Android application built specifically for NSUT students, featuring modern UI/UX and robust functionality.
-
-**🔥 Key Features:**
-- 🎨 **Modern Material Design 3** UI with Jetpack Compose
-- 📱 **Responsive & Adaptive** layout for all screen sizes
-- 🏗️ **Clean Architecture** with MVVM pattern implementation
-- 🌐 **Smart Networking** with Retrofit and GSON
-- 🔄 **Real-time Data Updates** and seamless user experience
-- 🎯 **Smooth Animations** and beautiful transitions
-- 📊 **Web Scraping** capabilities with Jsoup integration
-
-**🛠️ Technical Highlights:**
-- Jetpack Navigation Compose for seamless navigation
-- Accompanist libraries for enhanced Compose features
-- Google Fonts integration for beautiful typography
-- Material Icons Extended for comprehensive iconography
-
-[🔗 View Repository](https://github.com/aryamanj250/NSUTrack)
-
-### 💼 Personal Portfolio
-**Tech Stack**: TypeScript, Modern Web Technologies  
-A sleek, professional portfolio website showcasing my development journey, projects, and technical expertise.
-
-**✨ Highlights:**
-- 🎨 **Clean, Modern Design** with intuitive user experience
-- ⚡ **Optimized Performance** for fast loading and smooth interactions
-- 🔧 **TypeScript Implementation** for robust, type-safe code
-- 📱 **Fully Responsive** design across all devices
-- 🎭 **Interactive Elements** and smooth animations
-
-[🔗 View Repository](https://github.com/aryamanj250/portfolio) 
-
-### 🧳 Tourist - Travel Experience App
-**Tech Stack**: Swift, iOS Development  
-An innovative iOS application designed to enhance travel experiences with intuitive features and native performance.
-
-**🌟 Features:**
-- 🍎 **Native iOS Development** with Swift
-- 🗺️ **Location-Based Services** for enhanced travel planning
-- 📱 **Intuitive User Interface** following iOS design guidelines
-- 🔍 **Smart Travel Recommendations** and discovery features
-- 🎯 **Performance Optimized** for smooth user experience
-
-[🔗 View Repository](https://github.com/aryamanj250/Tourist) 
+</div> 
 
 ## 🎯 Current Journey
 
